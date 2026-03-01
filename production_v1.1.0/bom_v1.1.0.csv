@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+BT1,BatteryHolder_Multicomp_BC-2001_1x2032,1,Battery_Cell,
+C1,1206,1,100u,
+D1,D_SOD-123,1,D_Schottky,
+J1,Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal,1,Conn_01x24,C262669
+J3,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,1,Conn_01x02,
+Q1,SOT-23-3,1,Q_PMOS_GSD,
+SW1,EG2315,1,SW_DP3T,
+U1,Xiao-ble-plus-tht,1,~,

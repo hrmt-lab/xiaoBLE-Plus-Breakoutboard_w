@@ -1,0 +1,19 @@
+コンデンサ
+・https://jlcpcb.com/partdetail/749380-GRT31CR61A476KE13L/C711108
+　Extend部品
+・https://jlcpcb.com/partdetail/97327-CL31A476MPHNNNE/C96123
+　Basic部品？
+・https://akizukidenshi.com/catalog/g/g115633/
+　秋月　10個 \200
+
+Pch MOSFET
+・https://jlcpcb.com/partdetail/Alpha_OmegaSemicon-AO3401A/C15127
+　JLCPCB
+・https://akizukidenshi.com/catalog/g/g114654/
+　秋月　10個 \220
+
+ショットキーバリアダイオード
+・https://jlcpcb.com/partdetail/9093-B5819WSL/C8598
+　Basic部品
+・https://akizukidenshi.com/catalog/g/g101398/
+　10個 \150
